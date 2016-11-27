@@ -1,2 +1,2 @@
 # hello-world
-Week13 Activity - version control &amp; Github (due 11/28)
+This is a gethub acctivity for ("Week13 Activity - version control &amp; Github (due 11/28)"). 
